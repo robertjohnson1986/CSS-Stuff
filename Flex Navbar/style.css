@@ -4,7 +4,6 @@
     font-family: 'Montserrat', sans-serif;
    }
    #wrapper{
-    padding: auto;
     height:auto;
     background-color: white;
     margin: 0px auto;
@@ -16,7 +15,7 @@
    }
 #navigation{
     padding: 10px;
-    margin: 20 px;
+    margin: 20px;
     vertical-align: top;
     display: flex;
     align-items:center;
@@ -31,11 +30,22 @@ li {
     display:inline;
     text-decoration: none;
     color: white;
+    margin: 10px;
+    text-decoration:none;
 }
 
 h1 {
     color: white;
 }
 
-
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    text-decoration:none;
+  }
+   
+  a:link {
+    text-decoration: none;
+    color:white;
+  }
 
