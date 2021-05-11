@@ -5,7 +5,7 @@
    #wrapper{
     padding: 20px;
     width: 740px;
-    height: 200 px;
+    height: 200px;
     background-color: white;
     margin: 0px auto;
    }
@@ -20,7 +20,7 @@
     width: 740px;
     background-color: rgb(25, 25, 139);
    }
-   
+
 .subcontents {
     margin: 20px 20px 0 0;
     vertical-align: top;
