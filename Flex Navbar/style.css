@@ -21,7 +21,7 @@
     vertical-align: top;
     display: flex;
     align-items:center;
-    justify-content:space-evenly;
+    justify-content:space-around;
     height: 80px;
     width: 740px;
     background-color: rgb(100 149 237);
@@ -42,7 +42,7 @@ h1 {
 
 nav ul {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     text-decoration:none;
 }
 
