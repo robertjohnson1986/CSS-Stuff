@@ -1,0 +1,7 @@
+ls - lists out everything
+cd - change directory
+mkdir test - make directory
+touch index.html - make file
+cp index.hitml index_2.html - copy file to another file
+cp test/index_2.html destinaation/index_2.html - move file to new location
+rm test/styles.css - removes files
